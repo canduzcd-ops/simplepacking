@@ -1,0 +1,15 @@
+{
+  "appId": "com.racalabs.simplepacking",
+  "appName": "RACA Simple Packing",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "launchAutoHide": true,
+      "launchFadeOutDuration": 200,
+      "backgroundColor": "#1e1b4b",
+      "androidSplashResourceName": "splash",
+      "showSpinner": false
+    }
+  }
+}

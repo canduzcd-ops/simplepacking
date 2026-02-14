@@ -1,0 +1,56 @@
+export const tr = {
+    app: {
+        name: "RACA Simple Packing",
+        desc: "Mikro Hazırlık Asistanı",
+    },
+    home: {
+        scenarios: "Senaryoların",
+        new: "Yeni Senaryo",
+        empty: "Henüz senaryo yok.",
+    },
+    scenario: {
+        newTitle: "Yeni Senaryo",
+        nameLabel: "Senaryo Adı",
+        namePlaceholder: "Örn: Plaj Çantası",
+        iconLabel: "Emoji",
+        colorLabel: "Renk Etiketi",
+        save: "Kaydet",
+        delete: "Sil",
+        rename: "Adlandır",
+        back: "Geri",
+    },
+    detail: {
+        addItem: "Ekle",
+        inputPlaceholder: "Örn: Güneş kremi...",
+        completed: "tamamlandı",
+        empty: "Henüz madde yok.",
+        reset: "Sıfırla",
+        checkAll: "Hepsini Seç",
+        confirmReset: "Emin misin?",
+    },
+    theme: {
+        neutral: "Nötr",
+        work: "İş",
+        sport: "Spor",
+        travel: "Tatil",
+        wedding: "Düğün",
+    },
+    settings: {
+        title: "Ayarlar",
+        language: "Dil / Language",
+        theme: "Tema",
+        backup: "Yedekleme",
+        backupDesc: "Verilerini dışa aktar veya geri yükle.",
+        export: "Yedeği İndir (JSON)",
+        import: "Yedekten Yükle",
+        importSuccess: "Başarıyla yüklendi!",
+        importError: "Hata: Geçersiz dosya.",
+        exit: "Çıkış",
+    },
+    ui: {
+        yes: "Evet",
+        no: "Hayır",
+        close: "Kapat",
+        cancel: "Vazgeç",
+    }
+};

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RACA Simple Packing</string>
+    <string name="title_activity_main">RACA Simple Packing</string>
+    <string name="package_name">com.racalabs.simplepacking</string>
+    <string name="custom_url_scheme">com.racalabs.simplepacking</string>
+</resources>

@@ -1,0 +1,56 @@
+export const en = {
+    app: {
+        name: "RACA Simple Packing",
+        desc: "Micro Packing Assistant",
+    },
+    home: {
+        scenarios: "Your Scenarios",
+        new: "New Scenario",
+        empty: "No scenarios yet.",
+    },
+    scenario: {
+        newTitle: "New Scenario",
+        nameLabel: "Scenario Name",
+        namePlaceholder: "e.g. Beach Bag",
+        iconLabel: "Emoji",
+        colorLabel: "Color Tag",
+        save: "Save",
+        delete: "Delete",
+        rename: "Rename",
+        back: "Back",
+    },
+    detail: {
+        addItem: "Add",
+        inputPlaceholder: "e.g. Sunscreen...",
+        completed: "completed",
+        empty: "No items yet.",
+        reset: "Reset",
+        checkAll: "Check All",
+        confirmReset: "Are you sure?",
+    },
+    theme: {
+        neutral: "Neutral",
+        work: "Work",
+        sport: "Sport",
+        travel: "Travel",
+        wedding: "Wedding",
+    },
+    settings: {
+        title: "Settings",
+        language: "Language",
+        theme: "Theme",
+        backup: "Backup & Restore",
+        backupDesc: "Export your data or restore from file.",
+        export: "Download Backup (JSON)",
+        import: "Restore from Backup",
+        importSuccess: "Restored successfully!",
+        importError: "Error: Invalid file.",
+        exit: "Exit",
+    },
+    ui: {
+        yes: "Yes",
+        no: "No",
+        close: "Close",
+        cancel: "Cancel",
+    }
+};
